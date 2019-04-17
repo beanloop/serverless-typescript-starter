@@ -1,0 +1,7 @@
+node_modules
+jspm_packages
+npm-debug.log
+yarn-error.log
+
+.serverless
+.webpack
