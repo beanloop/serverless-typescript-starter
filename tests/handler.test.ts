@@ -1,5 +1,5 @@
 import {APIGatewayEvent, Context} from 'aws-lambda'
-import {hello} from './handler'
+import {hello} from '../src/handler'
 
 describe('hello', () => {
   it('should return 200 OK', async () => {
